@@ -1,0 +1,3 @@
+1. \b(O|o)\S+@\S+.com
+2. 31
+3. outlook.team@enron.com olinger@enron.com outlook.team@enron.com Outlook.2000@enron.com OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com orourke.john@epenergy.com off-yild@zdemail.zdlists.com on-yild@zdemail.zdlists.com olinger@enron.com outlook.team@enron.com Outlook.2000@enron.com OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com orourke.john@epenergy.com outlook-migration-team@enron.com outlook-migration-team@enron.com ove@commissioner.com olinger@enron.com otto@enron.com ogden@enron.com o'leary@enron.com otto@enron.com ortiz@enron.com oxley@enron.com ortiz@enron.com o'neill@aexp.com oh@enron.com o'rourke@enron.com oxley@enron.com ortiz@enron.com o'rourke@enron.com o'rourke@enron.com 
